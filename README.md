@@ -4,8 +4,8 @@ This is a Chatbot for Whatsapp, based on Chatterbot. It uses a Tampermonkey scri
 This is just a fun project and I don't take liability for the sent messages of the bot :grin:.
 
 # :star2: Set-up your chatty bot
-1. use Linux or at least Windows Subsystems for Linux (WSL 1 or 2)
-2. I recommend to create a python environment (venv or Conda)
+1. use Linux or at least Windows Subsystems for Linux (WSL 1 or 2) to execute the python script
+2. I recommend to create a python environment with Python 3.6 (venv or Conda)
 3. install the requirements `pip3 install -r requirements.txt`
 4. add [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de) to your chrome browser.
 5. install and enable the script `the-whatsapp-chatbot.js` in Tampermonkey.
